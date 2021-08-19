@@ -1,0 +1,18 @@
+* {
+  margin: 12px;
+  padding: 5px;
+
+  color: whitesmoke;
+}
+
+body {
+  background-color: black;
+}
+
+.input {
+  color: black;
+  width: 500px;
+}
+textarea {
+  height: 500px;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zers23/diary_lite.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/zers23/diary_lite/issues"
+  },
+  "homepage": "https://github.com/zers23/diary_lite#readme"
+}
